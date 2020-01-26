@@ -100,7 +100,7 @@
 			};
 			class Hyyppa
 			{
-				name="Hyyppä";
+				name="Golvasta";
 				position[]={2691.0801,4301.3999};
 				type="NameVillage";
 				radiusA=200;
@@ -118,7 +118,7 @@
 			};
 			class DefaultKeyPoint8
 			{
-				name="Ojalankylä";
+				name="Fullerö";
 				position[]={2328.3,2793.1299};
 				type="NameVillage";
 				radiusA=200;
